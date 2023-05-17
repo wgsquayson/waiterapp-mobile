@@ -20,8 +20,7 @@ This system is a personal project, and has other two parts, [api](https://github
 
 The app was built in brazilian portuguese, but it's pretty straight forward: you start a new order, fill in the table, choose the order items and send them to the order board.
 
-<video src="https://github.com/wgsquayson/waiterapp-mobile/assets/43099794/3e01e4d3-aa2f-4bd0-b62f-de0613636b25"/>
+| Filter the menu | Make a new order |
+| -- | -- |
+|<video src="https://github.com/wgsquayson/waiterapp-mobile/assets/43099794/ec2f2107-e6ff-48a7-bc2d-fa4323ccc96b" height="600"/> |<video src="https://github.com/wgsquayson/waiterapp-mobile/assets/43099794/3e01e4d3-aa2f-4bd0-b62f-de0613636b25" /> |
 
-You can also filter the menu items by selecting a category
-
-<video src="https://github.com/wgsquayson/waiterapp-mobile/assets/43099794/ec2f2107-e6ff-48a7-bc2d-fa4323ccc96b" height="600"/>
