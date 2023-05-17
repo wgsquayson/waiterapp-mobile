@@ -1,6 +1,6 @@
 # WaiterApp - Mobile
 
-Hi! Welcome to WaiterApp, a system that handles the orders at a restaurant, with real-time updates.
+Hi! Welcome to WaiterApp, a system that manages the orders at a restaurant, with real-time updates.
 
 This system is a personal project, and has other two parts, [api](https://github.com/wgsquayson/waiterapp-api) and [frontend](https://github.com/wgsquayson/waiterapp-web). The mobile part is responsible for taking orders and sending them to the board, which is updated in real-time when an order comes in. This app was built using:
 
